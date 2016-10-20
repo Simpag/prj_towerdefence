@@ -28,7 +28,7 @@
             <string>radius = 100; //Radius for enemy check
 coolDown = 25; //interwall shooting
 placing = false;
-towerCost = 10; //Cost of the tower
+
 </string>
           </argument>
         </arguments>
@@ -92,7 +92,7 @@ if placing == true {
             <kind>1</kind>
             <string>if (placing == true &amp;&amp; blocked == false) {
     placing = false;
-    money -= towerCost;
+    money -= towerCost1;
 }
 </string>
           </argument>
