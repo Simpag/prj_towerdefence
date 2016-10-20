@@ -11,6 +11,7 @@
     <sprite>sprites\spr_path</sprite>
     <sprite>sprites\spr_enemy</sprite>
     <sprite>sprites\spr_tower_bullet_parent</sprite>
+    <sprite>sprites\spr_tower_parent_gun</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths">
@@ -28,6 +29,7 @@
     <object>objects\obj_waveControl</object>
     <object>objects\obj_control</object>
     <object>objects\obj_towerGUI</object>
+    <object>objects\obj_tower_parent_gun</object>
   </objects>
   <timelines name="timelines">
     <timeline>timelines\tm_lvl_1</timeline>
