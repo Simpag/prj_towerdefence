@@ -26,7 +26,6 @@
     <object>objects\obj_stats</object>
     <object>objects\obj_waveControl</object>
     <object>objects\obj_control</object>
-    <object>objects\obj_test</object>
   </objects>
   <timelines name="timelines">
     <timeline>timelines\tm_lvl_1</timeline>
